@@ -1,0 +1,23 @@
+.topnavdiv{
+    text-align: center;
+    border: 1px solid darkcyan;
+    height: auto;
+    width:450px;
+    flex-direction: row;
+    display:flex;
+    background-color: rgb(18,44,44);
+    margin:auto;
+
+}
+
+.Navlinkdiv{
+    border: 1px solid rgb(241, 245, 244);
+    margin:10px;
+    border-radius: 15px;
+    width: auto;
+}
+
+.topnavlink{
+    text-decoration: none;
+    color:white;
+}

@@ -1,0 +1,15 @@
+.sidenavdiv{
+    text-align: left;
+    border: 2px solid rgb(241, 245, 244);
+    width:350px;
+}
+
+.Navlinkdiv{
+    border: 2px solid rgb(241, 245, 244);
+    margin:10px;
+}
+
+.sidenavlink{
+    text-decoration: none;
+    color:white;
+}
